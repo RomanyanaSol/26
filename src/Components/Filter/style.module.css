@@ -1,0 +1,10 @@
+.search_container{
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.search_container input{
+    padding: 10px;
+    border: 2px solid black;
+}

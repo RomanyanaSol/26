@@ -1,0 +1,22 @@
+.card{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card p{
+    font-size: 30px;
+    
+}
+
+.card img{
+    width: 200px;
+}
+
+.card button{
+    height: 40px;
+    margin-top: 65px;
+    cursor: pointer;
+}

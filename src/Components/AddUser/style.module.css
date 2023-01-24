@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.form input{
+    padding: 10px;
+    border: 2px solid black;
+    width: 20%;
+}
+
+.form button{
+    padding: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+}
